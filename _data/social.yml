@@ -22,16 +22,16 @@ twitter:
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+twitch: VargusSC
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: false
   linkedin:
   wordpress:
-  email: true
+  email: false
