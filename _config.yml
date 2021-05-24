@@ -1,5 +1,5 @@
 # Metadata
-title: "VargusSC's Purchase List"
+title: "Vargus SC's Purchase List"
 favicon: assets/img/favicon.png
 description: >-
   An expanded item list for TwitchToolkit that supports most ToolkitUtils' shop.
@@ -7,7 +7,7 @@ description: >-
 baseurl: '/toolkit-list' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'scvargus'
-github_username: 'VargusSC'
+github_username: 'Vargus SC'
 
 # Item list settings
 store:
@@ -75,6 +75,6 @@ store_redirects:
     - 'surgery'
 
 # Build settings
-remote_theme: SirRandoo/Type-on-Strap
+remote_theme: VargusSC/Type-on-Strap
 plugins:
   -
